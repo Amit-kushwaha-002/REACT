@@ -12,6 +12,8 @@ const App = () => {
     setData(response.data)
     
   }
+
+  
   return (
     <div>
       <button onClick={getData}>Get Data</button>
