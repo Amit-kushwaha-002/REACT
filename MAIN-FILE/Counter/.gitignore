@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 vite
+py-3.10
 
 
 # Editor directories and files
